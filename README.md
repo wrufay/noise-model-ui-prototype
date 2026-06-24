@@ -1,7 +1,7 @@
 
-  # Map Interface for Scientists
-
-  This is a code bundle for Map Interface for Scientists. The original project is available at https://www.figma.com/design/nD9hJsE9TU51W673SkTdEA/Map-Interface-for-Scientists.
+# noise modelling interface
+### prototyped with figma make
+https://www.figma.com/design/nD9hJsE9TU51W673SkTdEA/Map-Interface-for-Scientists.
 
   ## Running the code
 
